@@ -12,4 +12,4 @@ Most notebooks use the following libraries:
 The versions of the libraries can be found in the notebook.
 
 ## Notebooks
-* [Tempo, beat, and downbeat estimation with a Temporal Convolutional Network](notebooks/Tempo-Beat-Downbeat-Estimation.ipynb) 【[Qiita](https://qiita.com/drafts/4bfc48faf35667c08db4)】
+* [Tempo, beat, and downbeat estimation with a Temporal Convolutional Network](notebooks/Tempo-Beat-Downbeat-Estimation.ipynb) 【[Qiita](https://qiita.com/xiao_ming/items/4bfc48faf35667c08db4)】
