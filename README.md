@@ -9,7 +9,9 @@ Most notebooks use the following libraries:
 - [librosa](https://librosa.org/doc/latest/index.html)
 - [mirdata](https://mirdata.readthedocs.io/en/latest/)
 
-The versions of the libraries can be found in the notebook.
+The versions of the libraries are recorded in the notebooks.
 
 ## Notebooks
 * [Tempo, beat, and downbeat estimation with a Temporal Convolutional Network](notebooks/Tempo-Beat-Downbeat-Estimation.ipynb) 【[Qiita](https://qiita.com/xiao_ming/items/4bfc48faf35667c08db4)】
+
+* [Sequence-to-sequencce piano transcription](notebooks/Seq2Seq-Piano-Transcription.ipynb)【[Qiita](https://qiita.com/xiao_ming/items/ab81b48420b0d0c74ef2)】
